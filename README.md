@@ -1,8 +1,9 @@
 # GAMES101-Homework
 
 All projects have been tested.所有项目截图都是实际截图～
-Course link(课程页面): https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-My notes(个人笔记): https://remoooo.com/cg_set.html
+
+- Course link(课程页面): https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
+- My notes(个人笔记): https://remoooo.com/cg_set.html
 
 ## GAMES101 Homework Collection
 
