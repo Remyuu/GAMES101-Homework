@@ -22,22 +22,22 @@ This repository contains all the assignments from the GAMES101 course, including
 <img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/e7c42381-2785-41f9-bc8d-31a32bc3531b">
 
 ### Assignment.2
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/b24dc9ab-095d-40cb-8b05-39abbaa9d389">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/bcb65240-c078-4228-b5f1-334e105fea2a">
 
 ### Assignment.3
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/745e2835-f5b0-47d4-b890-d2d8bf1087bb">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/c75921a8-6a9e-4d54-ad37-e3e78892ffd2">
 
 ### Assignment.4
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/14bfaea8-c816-4e0e-b588-e0ad9a8b16f1">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/dc895261-7f6a-4176-a2ca-5d7326acb6f0">
 
 ### Assignment.5
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/83af2b42-c54b-44d1-ae81-5231fa2235f8">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/27a0ad0c-b29e-4a2e-af57-d93bfeb2107c">
 
 ### Assignment.6
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/5206a40e-98f2-4572-b728-afd8d196f093">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/fcb9fa5f-0554-42e7-9a5a-506d189dd1b0">
 
 ### Assignment.7
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/822890a7-aa94-475f-b563-97628a405f77">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/e26d3847-f575-468a-aaac-8990bf2ea37f">
 
 ### Assignment.8
-<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/aa29dc95-627b-486e-8db7-8b8ee935aa96">
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/9391daef-06ba-4b3a-bb50-27dcc962f331">
