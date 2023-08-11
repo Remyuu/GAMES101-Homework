@@ -18,3 +18,26 @@ This repository contains all the assignments from the GAMES101 course, including
 
 ## Assignment screenshots
 
+### Assignment.1
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/4b9fc291-0bfe-4de3-b4d0-ed5a5b0b50bf">
+
+### Assignment.2
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/b24dc9ab-095d-40cb-8b05-39abbaa9d389">
+
+### Assignment.3
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/745e2835-f5b0-47d4-b890-d2d8bf1087bb">
+
+### Assignment.4
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/14bfaea8-c816-4e0e-b588-e0ad9a8b16f1">
+
+### Assignment.5
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/83af2b42-c54b-44d1-ae81-5231fa2235f8">
+
+### Assignment.6
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/5206a40e-98f2-4572-b728-afd8d196f093">
+
+### Assignment.7
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/822890a7-aa94-475f-b563-97628a405f77">
+
+### Assignment.8
+<img width="500" alt="image" src="https://github.com/Remyuu/GAMES101-Homework/assets/64857501/aa29dc95-627b-486e-8db7-8b8ee935aa96">
