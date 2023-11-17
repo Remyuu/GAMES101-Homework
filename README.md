@@ -2,8 +2,9 @@
 
 All projects have been tested.所有项目截图都是实际截图～
 
-- Course link(课程页面): https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html
-- My notes(个人笔记): https://remoooo.com/cg_set.html
+- Course link(课程页面): [https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+- My notes(个人笔记): [https://remoooo.com/cg_set.html](https://remoooo.com/cg_set.html)
+- 笔记仓库: [https://docs.remoooo.com/cg01/](https://github.com/Remyuu/GAMES101-Notes)
 
 ## GAMES101 Homework Collection
 
