@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.zh.md">香港繁体中文🇭🇰</a> &nbsp;|&nbsp; <a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.md">English🇺🇸</a>
+<a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.zh-HK.md">香港繁体中文🇭🇰</a> &nbsp;|&nbsp; <a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.md">English🇺🇸</a>
 </p>
 
 # GAMES101-Homework
