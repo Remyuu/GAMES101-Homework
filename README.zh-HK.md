@@ -1,32 +1,32 @@
 <p align="center">
-<a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.zh.md">香港繁体中文🇭🇰</a> &nbsp;|&nbsp; <a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.md">English🇺🇸</a>
+<a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.md">English🇺🇸</a>&nbsp;|&nbsp; <a href="https://github.com/Remyuu/GAMES101-Homework/blob/main/README.zh.md">香港繁体中文🇭🇰</a> 
 </p>
 
 # GAMES101-Homework
 
-All projects have been tested.
+所有項目截圖都是實際截圖～
 
-- Course link: [https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
-- My notes: [https://remoooo.com/cg_set.html](https://remoooo.com/cg_set.html)
-- Notes Src: [https://github.com/Remyuu/GAMES101-Notes](https://github.com/Remyuu/GAMES101-Notes)
+- 課程主頁: [https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+- 個人筆記: [https://remoooo.com/cg_set.html](https://remoooo.com/cg_set.html)
+- 筆記檔案: [https://github.com/Remyuu/GAMES101-Notes](https://github.com/Remyuu/GAMES101-Notes)
 
-## List
+## 作業清單
 
-- Rotation and projection
-- Triangles and Z-buffering
-- Pipeline and Shading
-- Bézier curve
-- The ray intersects the triangle
-- Acceleration structure
-- Path Tracing
-- Mass-spring system
-## GAMES101 Homework Collection
+- 旋轉與投影
+- 三角形與Z緩衝
+- 管線與著色
+- 貝茲曲線
+- 光線與三角形相交
+- 加速結構
+- 路徑追蹤
+- 質點彈簧系統
+## GAMES101 課後作業集
 
-This repository contains all the assignments from the GAMES101 course, including both the **fundamental and advanced parts**. Contributions and suggestions for improvement are welcome!
+此存儲庫包含來自GAMES101課程的所有作業，包括**基礎和高級部分**。歡迎貢獻和改進建議！
 
-**Note**: This repository is for learning and discussion purposes only. Direct code copying for course submission is discouraged. Please ensure academic integrity when completing assignments.
+**注意**：此存儲庫僅用於學習和討論目的。嚴禁直接複製代碼用於課程提交。完成作業時請確保學術誠信。
 
-## Assignment screenshots
+## 作業截圖
 
 ### Assignment.1
 
